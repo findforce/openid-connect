@@ -1,1 +1,1 @@
-{"issuer":"https://findforce.github.io/openid-connect","jwks_uri":"https://findforce.github.io/openid-connect/openid/v1/jwks","response_types_supported":["id_token"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"]}
+{"issuer":"https://kubernetes.default.svc.cluster.local","jwks_uri":"https://195.201.241.72:6443/openid/v1/jwks","response_types_supported":["id_token"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"]}
